@@ -1,5 +1,7 @@
 # Formulate an LLC
 You want to establish a "corporate veil" between your business and personal assets. Formulating an LLC puts a legal wall between you and your company. It also allows you to operate on a more professional level and treat the buiness like a business.
+## ** **WARNING** **
+**_ALWAYS_** formulate as an LLC. There is a tax advantaged approach to formulating as an LLC that "files as an S-Corp". You do not want to formulate as a S-Corp. You can change your filing status at a later date, so for simplicity sake...just formulate the company as an LLC. That is, unless the process to formulate allows you to be an "LLC filing as an S-Corp"
 ## Formation process
 Should be a very simple excercise depending on the state. The state of Iowa is a $50 filing fee with an biennial report that must be filed for around $50.
 * Use your own attorney
